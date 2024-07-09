@@ -1,0 +1,44 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Track Your Health!</h1>
+<p>Track your health to stay fit</p>
+
+<form method="POST">
+    <label for="age">Age:</label>
+    <input type="text" id="age" name="age" required>
+
+    <label for="heart_rate">Heart Rate (bpm):</label>
+    <input type="text" id="heart_rate" name="heart_rate" required>
+
+    <label for="steps">Steps taken today:</label>
+    <input type="text" id="steps" name="steps" required>
+
+    <label for="sleep_hours">Hours of sleep last night:</label>
+    <input type="text" id="sleep_hours" name="sleep_hours" required>
+
+    <label for="calories_burned">Calories burned today:</label>
+    <input type="text" id="calories_burned" name="calories_burned" required>
+
+    <button type="submit">Get Recommendations</button>
+</form>
+
+{% if recommendations %}
+    <h2>Health Analysis and Recommendations:</h2>
+    <ul>
+        {% for recommendation in recommendations %}
+            <li>{{ recommendation }}</li>
+        {% endfor %}
+    </ul>
+
+    <h2>Health Percentage:</h2>
+    <div class="progress-bar">
+        <div class="progress" style="width: {{ health_percentage }}%;">{{ health_percentage }}%</div>
+    </div>
+
+    <h2>Fitness Percentage:</h2>
+    <div class="progress-bar">
+        <div class="progress" style="width: {{ fitness_percentage }}%;">{{ fitness_percentage }}%</div>
+    </div>
+{% endif %}
+{% endblock %}

@@ -1,0 +1,91 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Research</h1>
+<form method="POST" action="{{ url_for('research') }}">
+    <label for="disease">Enter Disease Name:</label>
+    <input type="text" id="disease" name="disease" required>
+    <button type="submit">Search</button>
+</form>
+
+{% if disease_info %}
+    <h2>{{ disease_info.name }}</h2>
+    <p><strong>Summary:</strong> {{ disease_info.summary }}</p>
+{% endif %}
+<br>
+<br>
+<br>
+<h1>Recent disease outbrakes around the world: </h1>
+<br>
+<div class="blogs">
+    <div class="blog">
+        <h2>Animal Influenza Viruses</h2>
+        <p class="excerpt">
+            Animal influenza viruses normally circulate in animals but can also infect humans. Infections in humans have primarily been acquired through direct contact with infected animals or through indirect contact with contaminated environments.
+        </p>
+        <p class="hidden-content">
+            Avian influenza virus infections in humans may cause diseases ranging from mild upper respiratory tract infection to more severe diseases and can be fatal. Conjunctivitis, gastrointestinal symptoms, encephalitis and encephalopathy have also been reported.
+            Laboratory tests are required to diagnose human infection with influenza. WHO periodically updates technical guidance protocols for the detection of zoonotic influenza using molecular methods.
+        </p>
+        <button class="read-more">Read more</button>
+    </div>
+    <br>
+    <div class="blog">
+        <h2>Mokey Pox</h2>
+        <p class="excerpt">
+            Mpox (monkeypox) is an infectious disease caused by the monkeypox virus (MPXV). There are two known clades of MPXV: clade I, previously called the Congo Basin clade; and clade II, previously called the West Africa clade, which includes subclades IIa and clade IIb. MPXV transmits between humans through close contact with lesions, body fluids, respiratory droplets or contaminated materials, or from animals to humans through contact with live animals or consumption of contaminated bushmeat. 
+        </p>
+        <p class="hidden-content">
+
+Mpox causes signs and symptoms which usually begin within a week but can start 1–21 days after exposure. Symptoms typically last 2–4 weeks but may last longer in someone with a weakened immune system. Fever, muscle aches and sore throat appear first, followed by skin and mucosal rash. Lymphadenopathy (swollen lymph nodes) is also a typical feature of mpox, present in most cases. Children, pregnant women and people with weak immune systems are at risk of developing complications and death from mpox. 
+
+It is important to distinguish mpox from chickenpox, measles, bacterial skin infections, scabies, herpes, syphilis, other sexually transmissible infections, and medication-associated allergies. Someone with mpox may also concurrently have another sexually transmissible infection such as herpes. Alternatively, a child or adult with suspected mpox may also have chickenpox. For these reasons, laboratory testing is important for confirmation of mpox, particularly for the first cases in an outbreak or new geographic area, and implementation of relevant public health and social measures to curb transmission. 
+
+Detection of viral DNA by polymerase chain reaction (PCR) is the preferred laboratory test for mpox. The best diagnostic specimens are taken directly from the rash – skin, fluid or crusts – collected by vigorous swabbing. In the absence of skin lesions, testing can be done on oropharyngeal, anal or rectal swabs. However, while a positive result of oropharyngeal, anal or rectal sample confirms mpox, a negative result is not enough to rule out MPXV infection. Testing of blood is not recommended. Serology does not distinguish between different orthopoxviruses and is therefore restricted to reference laboratories where antibody detection methods may be applied for retrospective case classification or in special studies. 
+
+Treatment is based on skin scare, managing pain, and preventing complications. In addition, specific antiviral medications such as tecovirimat can also be used in the treatment of mpox, particularly for severe cases or individuals at higher risk of complications.
+        </p>
+        <button class="read-more">Read more</button>
+    </div>
+    <br>
+    <div class="blog">
+        <h2>Oropouche</h2>
+        <p class="excerpt">
+            Oropouche virus disease is an arboviral disease caused by the Oropouche virus (OROV), a segmented single-stranded RNA virus that is part of the genus Orthobunyavirus of the Peribunyaviridae family.  The virus has been found to circulate in Central and South America and the Caribbean. OROV can be transmitted to humans primarily through the bite of the Culicoides paraensis midge, found in forested areas and around water bodies, or certain Culex quinquefasciatus mosquitos. It is suspected that viral circulation includes both epidemic and sylvatic cycles. In the sylvatic cycle, primates, sloths, and perhaps birds are the vertebrate hosts, although a definitive arthropod vector has not been identified. In the epidemic cycle, humans are the amplifying host and OROV is transmitted primarily through the bite of the Culicoides paraensis midge.
+        </p>
+        <p class="hidden-content">
+            To date, there is no evidence of human-to-human OROV transmission. 
+
+The disease symptoms are similar to dengue and start between four to eight days (range between three-12 days) after the infective bite. The onset is sudden, usually with fever, headache, joint stiffness, pain, chills, and sometimes persistent nausea and vomiting, for up to five to seven days. Severe clinical presentation is rare, but it may result in aseptic meningitis. Most cases recover within seven days, however, in some patients, convalescence can take weeks. There is no specific antiviral treatment or vaccine for Oropouche virus disease. 
+        </p>
+        <button class="read-more">Read more</button>
+    </div>
+    <br>
+    <div class="blog">
+        <h2>Hepatitis E</h2>
+        <p class="excerpt">
+            Hepatitis E is a liver disease caused by the hepatitis E virus (HEV). Hepatitis E is found worldwide and is common in countries of Sub-Saharan Africa and Asia with limited access to adequate safe drinking water, poor sanitation and personal hygiene, limited health services or in areas of humanitarian emergencies.
+        </p>
+        <p class="hidden-content">
+
+HEV is transmitted by the fecal-oral route, mainly through contaminated water. The risk factors for hepatitis E are related to poor sanitation conditions, which allow the virus excreted in the feces of infected subjects to reach water intended for human consumption. The infection resolves spontaneously in 2-6 weeks with a 0.5-4% lethality. Fulminant hepatitis, a severe liver function impairment caused by HEV, is more common in pregnancy. Pregnant women, especially in their second and third trimesters, are at increased risk of acute liver failure, fetal loss, and mortality. The case-fatality rate can be as high as 10%-50% in women in their last trimester of pregnancy. 
+        </p>
+        <button class="read-more">Read more</button>
+    </div>
+    <br>
+    <div class="blog">
+        <h2>Rabies</h2>
+        <p class="excerpt">
+            Rabies is a vaccine-preventable, zoonotic, viral disease affecting the central nervous system. Once clinical symptoms appear, rabies is nearly 100% fatal. In up to 99% of cases, domestic dogs are responsible for rabies virus transmission to humans. Yet rabies can affect both domestic and wild animals. It spreads to people and animals via saliva, usually through bites, scratches or direct contact with mucosa (e.g. eyes, mouth or open wounds). Children between the ages of 5 and 14 years are frequent victims. Direct human-to-human transmission has never been documented, however it has occurred from infected organ/tissue donors to transplant recipients.
+        </p>
+        <p class="hidden-content">
+
+The incubation period for rabies is typically 2–3 months but may vary from 1 week to 1 year, depending on factors such as the location of virus entry and the viral load. Initial symptoms of rabies include generic signs like fever, pain and unusual or unexplained tingling, pricking, or burning sensations at the wound site. As the virus moves to the central nervous system, progressive and fatal inflammation of the brain and spinal cord develops. Clinical rabies in people can be managed but very rarely cured, and not without severe neurological deficits. Rabies deaths occur mainly in those who cannot immediately access effective post-exposure prophylaxis. According to the Union Against Rabies Forum (launched by FAO, WHO and WOAH), globally, every nine minutes one person dies from rabies. Almost half of them are children.
+
+People can be protected against rabies through a vaccine given to individuals as pre-exposure or post-exposure prophylaxis. Post-exposure prophylaxis is the emergency response to a rabies exposure. This prevents the virus from entering the central nervous system, which would invariably result in death.
+        </p>
+        <button class="read-more">Read more</button>
+    </div>
+
+</div>
+{% endblock %}

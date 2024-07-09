@@ -1,0 +1,73 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h1>Find Hospitals</h1>
+    <form method="POST">
+        <label for="city">City:</label>
+        <input type="text" id="city" name="city" required>
+        <br>
+        <label for="district">District:</label>
+        <input type="text" id="district" name="district" required>
+        <br><br>
+        <button type="submit" class="btn">Search</button>
+    </form>
+
+    {% if recommendations %}
+        <h2>Recommended Hospitals near {{ user_location.address }}:</h2>
+        <ul>
+            {% for hospital in recommendations %}
+                <li>
+                    <strong>Hospital Name:</strong> {{ hospital[0] }} <br>
+                    <strong>Appointment Website:</strong> <a href="{{ hospital[1] }}" target="_blank">{{ hospital[1] }}</a> <br>
+                    <strong>Distance (km):</strong> {{ hospital[3]|round(2) }} <br>
+                </li>
+                <br>
+            {% endfor %}
+        </ul>
+    {% endif %}
+    <br>
+    <br>
+    <h1>BEST HOSPITALS IN INDIA:</h1>
+    <br>
+    <div id="office-container">
+        <div class="text-section">
+            <h2>#1: AIIMS Delhi</h2>
+            <p><strong>Specialty:</strong> Comprehensive medical care and research</p>
+            <p><strong>Address:</strong> Ansari Nagar, New Delhi, Delhi 110029, India</p>
+            <p><strong>Website:</strong> <a href="https://www.aiims.edu" target="_blank">www.aiims.edu</a></p>
+            <p><strong>Contact:</strong> +91-11-26588500</p>
+        </div>
+        <div class="image-section">
+            <img src="{{ url_for('static', filename='pictures/aiims.png') }}" alt="AIIMS Delhi Image">
+        </div>
+    </div>
+    <br>
+    <div id="office-container">
+        <div class="text-section">
+            <h2>#2: CMC Vellore</h2>
+            <p><strong>Specialty:</strong> Comprehensive medical care and research</p>
+            <p><strong>Address:</strong>Christian Medical College
+                Ida Scudder Road,
+                Vellore - 632004
+                Tamil Nadu, India</p>
+            <p><strong>Website:</strong> <a href="https://www.cmch-vellore.edu/" target="_blank">www.cmch-vellore.edu</a></p>
+            <p><strong>Contact:</strong> +91 8000338855</p>
+        </div>
+        <div class="image-section">
+            <img src="{{ url_for('static', filename='pictures/cmc.png') }}" alt="AIIMS Delhi Image">
+        </div>
+    </div>
+    <br>
+    <div id="office-container">
+        <div class="text-section">
+            <h2>#3: Apollo Hospitals, Chennai</h2>
+            <p><strong>Specialties:</strong> Advanced medical technology, multidisciplinary healthcare</p>
+            <p><strong>Address:</strong> Greams Lane, Off Greams Road, Chennai, Tamil Nadu 600006, India</p>
+            <p><strong>Website:</strong> <a href="https://www.apollohospitals.com" target="_blank">www.apollohospitals.com</a></p>
+            <p><strong>Contact:</strong> +91-8069991006</p>
+        </div>
+        <div class="image-section">
+            <img src="{{ url_for('static', filename='pictures/apl.png') }}" alt="Apollo Hospitals, Chennai Image">
+        </div>
+    </div>
+{% endblock %}

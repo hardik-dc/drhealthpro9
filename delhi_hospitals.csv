@@ -1,0 +1,184 @@
+name,city,district,latitude,longitude,appointment_website,contact_number
+AIIMS New Delhi,New Delhi,Central Delhi,28.5679,77.2105,https://aiims.edu.com,011-26588500
+Fortis Hospital,Vasant Kunj,South Delhi,28.5286,77.1504,https://fortishealthcare.com,011-42252000
+Apollo Hospital,Indraprastha,East Delhi,28.6192,77.2845,https://apollohospitals.com,011-71791090
+Max Super Speciality Hospital,Saket,South Delhi,28.5245,77.207,https://maxhealthcare.in,011-26515050
+Medanta - The Medicity,Gurgaon,South Delhi,28.4476,77.0405,https://medanta.org,0124-4141414
+Sir Ganga Ram Hospital,Rajendra Nagar,Central Delhi,28.6415,77.1879,https://sgrh.com,011-25750000
+BLK Super Speciality Hospital,Pusa Road,Central Delhi,28.6413,77.1858,https://blkhospital.com,011-30403040
+Moolchand Hospital,Lajpat Nagar,South Delhi,28.5683,77.24,https://moolchandhealthcare.com,011-42000000
+Indian Spinal Injuries Centre,Vasant Kunj,South Delhi,28.52,77.1446,https://isiconline.org,011-42255333
+Primus Super Speciality Hospital,Chanakyapuri,South West Delhi,28.5977,77.1783,https://primushospital.com,011-66206620
+Cygnus Orthocare Hospital,Safdarjung Enclave,South Delhi,28.5582,77.1904,https://cygnusortho.com,011-44118888
+Sri Balaji Action Medical Institute,Paschim Vihar,West Delhi,28.6741,77.0733,https://actionhospital.com,011-42888888
+Rockland Hospital,Qutab Institutional Area,South Delhi,28.5323,77.1646,https://rocklandhospitals.com,011-49667777
+Holy Family Hospital,Okhla,South Delhi,28.5638,77.2664,https://holyfamilyhospital.in,011-26332800
+Batra Hospital,Tughlakabad,South Delhi,28.5123,77.2712,https://batrahospitaldelhi.org,011-29958747
+Metro Hospital and Heart Institute,Preet Vihar,East Delhi,28.6403,77.2955,https://metrohospitals.com,011-49285555
+Venkateshwar Hospital,Dwarka,South West Delhi,28.5765,77.0467,https://venkateshwarhospitals.com,011-48555555
+Shree Agarsen Hospital,Punjabi Bagh,West Delhi,28.6675,77.1355,https://shreeagarsenhospital.com,011-45005500
+Max Smart Super Speciality Hospital,Saket,South Delhi,28.5242,77.2108,https://maxsmarthospital.com,011-71791000
+Indraprastha Apollo Hospitals,Sarita Vihar,South Delhi,28.5313,77.2851,https://indraprasthaapollo.com,011-29871090
+Lok Nayak Hospital,Delhi Gate,Central Delhi,28.6404,77.238,https://lok-nayak-hospital.in,011-23236700
+Columbia Asia Hospital,Palam Vihar,South West Delhi,28.5427,77.0991,https://columbiaasia.com,011-39898969
+B.L. Kapoor Super Speciality Hospital,Pusa Road,Central Delhi,28.6432,77.1868,https://blkhospital.com,011-30403040
+Delhi Heart and Lung Institute,Panchkuian Road,Central Delhi,28.6407,77.205,https://dhli.in,011-42999999
+St. Stephen's Hospital,Tis Hazari,Central Delhi,28.6745,77.2165,https://ststephenshospital.org,011-23966021
+Max Hospital,Patparganj,East Delhi,28.6163,77.2892,https://maxhealthcare.in,011-43033333
+Maharaja Agrasen Hospital,Punjabi Bagh,West Delhi,28.6656,77.1344,https://mahdelhi.org,011-48882000
+Aashlok Hospital,Safdarjung Enclave,South Delhi,28.5664,77.1901,https://aashlok.com,011-40666666
+ESIC Hospital,Okhla,South Delhi,28.5578,77.2695,https://esic.nic.in,011-26387401
+Bansal Hospital,Saket,South Delhi,28.5247,77.2079,https://bansalhospital.com,011-40509000
+Vardhman Mahavir Medical College and Safdarjung Hospital,Safdarjung Enclave,South Delhi,28.5664,77.1901,https://vmmc-sjh.nic.in,011-26730000
+Sant Parmanand Hospital,Civil Lines,North Delhi,28.6814,77.2312,https://parmanandhospital.com,011-23994401
+Jeevan Nursing Home,Pitampura,North West Delhi,28.7035,77.1304,https://jeevannursinghome.com,011-27344139
+VIMHANS Hospital,Nehru Nagar,South Delhi,28.5723,77.2513,https://vimhans.com,011-29849052
+Action Cancer Hospital,Paschim Vihar,West Delhi,28.6753,77.0735,https://actioncancerhospital.com,011-49222222
+Jeewan Mala Hospital,Rohtak Road,West Delhi,28.663,77.1416,https://jeewanmalahospital.com,011-41505050
+Bansal Hospital,Rohini,North West Delhi,28.7143,77.1232,https://bansalhospital.com,011-27055785
+Sunder Lal Jain Hospital,Ashok Vihar,North Delhi,28.6964,77.1792,https://sljainhospital.com,011-27229128
+Bhagwan Mahavir Hospital,Pitampura,North West Delhi,28.6981,77.1242,https://bmhospital.org,011-27342645
+Panchsheel Hospital,Yamuna Vihar,East Delhi,28.6818,77.3073,https://panchsheelhospital.com,011-22893947
+Bhagat Chandra Hospital,Dwarka,South West Delhi,28.5877,77.0541,https://bhagatchandrahospital.com,011-25066422
+Saroj Super Speciality Hospital,Rohini,North Delhi,28.7053,77.1163,https://sarojhospital.com,011-27903333
+Deep Chand Bandhu Hospital,Ashok Vihar,North Delhi,28.6998,77.1723,https://dcbhospital.com,011-27240205
+Park Hospital,Meera Bagh,West Delhi,28.6573,77.0915,https://parkhospital.in,011-28332424
+Brahm Shakti Hospital and Research Centre,Budh Vihar,North West Delhi,28.723,77.0547,https://brahmshaktihospital.com,011-27532222
+Venkateshwar Multi-Super Speciality Hospital,Dwarka,South West Delhi,28.5765,77.0467,https://venkateshwarhospitals.com,011-48555555
+Sanjay Gandhi Memorial Hospital,Mangolpuri,North West Delhi,28.6943,77.0695,https://sgmhospital.com,011-27921701
+Bhagwati Hospital,Rohini,North West Delhi,28.7162,77.108,https://bhagwatihospital.com,011-27554418
+Goyal Hospital and Urology Centre,Rohini,North West Delhi,28.7073,77.1258,https://goyalhospital.com,011-27048485
+North Delhi Nursing Home,Model Town,North Delhi,28.7021,77.1906,https://northdelhinursinghome.com,011-27452251
+Sunder Lal Jain Charitable Hospital,Ashok Vihar,North Delhi,28.6963,77.179,https://sljainhospital.com,011-27245555
+Jaipur Golden Hospital,Rohini,North West Delhi,28.7202,77.1045,https://jaipurgoldenhospital.com,011-27907000
+Sant Parmanand Hospital,Civil Lines,North Delhi,28.6814,77.2312,https://parmanandhospital.com,011-23994401
+Delhi Heart and Lung Institute,Panchkuian Road,Central Delhi,28.6407,77.205,https://dhli.in,011-42999999
+St. Stephen's Hospital,Tis Hazari,Central Delhi,28.6745,77.2165,https://ststephenshospital.org,011-23966021
+Max Hospital,Patparganj,East Delhi,28.6163,77.2892,https://maxhealthcare.in,011-43033333
+Maharaja Agrasen Hospital,Punjabi Bagh,West Delhi,28.6656,77.1344,https://mahdelhi.org,011-48882000
+Aashlok Hospital,Safdarjung Enclave,South Delhi,28.5664,77.1901,https://aashlok.com,011-40666666
+ESIC Hospital,Okhla,South Delhi,28.5578,77.2695,https://esic.nic.in,011-26387401
+Bansal Hospital,Saket,South Delhi,28.5247,77.2079,https://bansalhospital.com,011-40509000
+Vardhman Mahavir Medical College and Safdarjung Hospital,Safdarjung Enclave,South Delhi,28.5664,77.1901,https://vmmc-sjh.nic.in,011-26730000
+Sant Parmanand Hospital,Civil Lines,North Delhi,28.6814,77.2312,https://parmanandhospital.com,011-23994401
+Jeevan Nursing Home,Pitampura,North West Delhi,28.7035,77.1304,https://jeevannursinghome.com,011-27344139
+VIMHANS Hospital,Nehru Nagar,South Delhi,28.5723,77.2513,https://vimhans.com,011-29849052
+Action Cancer Hospital,Paschim Vihar,West Delhi,28.6753,77.0735,https://actioncancerhospital.com,011-49222222
+Jeewan Mala Hospital,Rohtak Road,West Delhi,28.663,77.1416,https://jeewanmalahospital.com,011-41505050
+Bansal Hospital,Rohini,North West Delhi,28.7143,77.1232,https://bansalhospital.com,011-27055785
+Sunder Lal Jain Hospital,Ashok Vihar,North Delhi,28.6964,77.1792,https://sljainhospital.com,011-27229128
+Bhagwan Mahavir Hospital,Pitampura,North West Delhi,28.6981,77.1242,https://bmhospital.org,011-27342645
+Panchsheel Hospital,Yamuna Vihar,East Delhi,28.6818,77.3073,https://panchsheelhospital.com,011-22893947
+Bhagat Chandra Hospital,Dwarka,South West Delhi,28.5877,77.0541,https://bhagatchandrahospital.com,011-25066422
+Saroj Super Speciality Hospital,Rohini,North Delhi,28.7053,77.1163,https://sarojhospital.com,011-27903333
+Deep Chand Bandhu Hospital,Ashok Vihar,North Delhi,28.6998,77.1723,https://dcbhospital.com,011-27240205
+Park Hospital,Meera Bagh,West Delhi,28.6573,77.0915,https://parkhospital.in,011-28332424
+Brahm Shakti Hospital and Research Centre,Budh Vihar,North West Delhi,28.723,77.0547,https://brahmshaktihospital.com,011-27532222
+Venkateshwar Multi-Super Speciality Hospital,Dwarka,South West Delhi,28.5765,77.0467,https://venkateshwarhospitals.com,011-48555555
+Sanjay Gandhi Memorial Hospital,Mangolpuri,North West Delhi,28.6943,77.0695,https://sgmhospital.com,011-27921701
+Bhagwati Hospital,Rohini,North West Delhi,28.7162,77.108,https://bhagwatihospital.com,011-27554418
+Goyal Hospital and Urology Centre,Rohini,North West Delhi,28.7073,77.1258,https://goyalhospital.com,011-27048485
+North Delhi Nursing Home,Model Town,North Delhi,28.7021,77.1906,https://northdelhinursinghome.com,011-27452251
+Sunder Lal Jain Charitable Hospital,Ashok Vihar,North Delhi,28.6963,77.179,https://sljainhospital.com,011-27245555
+Jaipur Golden Hospital,Rohini,North West Delhi,28.7202,77.1045,https://jaipurgoldenhospital.com,011-27907000
+Tirath Ram Shah Hospital,Civil Lines,North Delhi,28.6745,77.2183,https://tirathramshah.com,011-23972426
+Holy Family Hospital,Okhla,South Delhi,28.5638,77.2664,https://holyfamilyhospital.in,011-26332800
+Mata Chanan Devi Hospital,Janakpuri,West Delhi,28.6303,77.0822,https://matachanandevihospital.com,011-45582000
+Sitaram Bhartia Institute of Science and Research,Qutab Institutional Area,South Delhi,28.5391,77.1831,https://sitarambhartia.org,011-42111111
+Pushpawati Singhania Research Institute,Sheikh Sarai,South Delhi,28.5357,77.2438,https://psrihospital.com,011-30611700
+Rajiv Gandhi Cancer Institute & Research Centre,Rohini,North West Delhi,28.7161,77.1038,https://rgcirc.org,011-47022222
+Vasant Valley School Medical Center,Vasant Kunj,South Delhi,28.5192,77.1566,https://vasantvalley.org,011-26892787
+Dr. RML Hospital,Connaught Place,Central Delhi,28.6267,77.2045,https://rmlh.nic.in,011-23365525
+Bhagat Hospital,Janakpuri,West Delhi,28.6251,77.0903,https://bhagathospital.com,011-25555109
+Delhi State Cancer Institute,Dilshad Garden,East Delhi,28.6844,77.3136,https://dsci.nic.in,011-22137766
+National Heart Institute,East of Kailash,South Delhi,28.5581,77.2584,https://nhidelhi.com,011-26414156
+G.B. Pant Hospital,Delhi Gate,Central Delhi,28.6398,77.2431,https://gbpant.delhigovt.nic.in,011-23232978
+Indira Gandhi Eye Hospital,Alaknanda,South Delhi,28.5364,77.2479,https://igeh.org,011-26328220
+Orthonova Hospital,Green Park,South Delhi,28.5558,77.2056,https://orthonova.in,011-41661233
+Bhardwaj Hospital,Noida,South Delhi,28.5679,77.3242,https://bhardwajhospital.in,0120-2431100
+Sunrise Hospital,East of Kailash,South Delhi,28.5567,77.2492,https://sunrisehospital.co.in,011-41753377
+Vardaan Hospital,Malviya Nagar,South Delhi,28.5369,77.2222,https://vardaanhospital.in,011-26689911
+Kalra Hospital,Kirti Nagar,West Delhi,28.6533,77.1482,https://kalrahospital.in,011-25459996
+Bensups Hospital,Dwarka,South West Delhi,28.5911,77.0546,https://bensupshospital.com,011-45582000
+Bharat Family Clinic,Dwarka,South West Delhi,28.5845,77.0471,https://bharatfamilyclinic.com,011-42808080
+Cygnus MLS Hospital,Paschim Vihar,West Delhi,28.6789,77.0877,https://cygnushospitals.com,011-49814981
+S.B. Health Care,Mukherjee Nagar,North Delhi,28.7051,77.2125,https://sbhealthcare.in,011-27606211
+NKS Super Speciality Hospital,Gulmohar Park,South Delhi,28.5525,77.2058,https://nkshospitals.com,011-26865050
+RG Stone Urology & Laparoscopy Hospital,East of Kailash,South Delhi,28.5561,77.2511,https://rgstone.com,011-49860000
+Sunder Lal Jain Hospital,Ashok Vihar,North Delhi,28.6963,77.179,https://sljainhospital.com,011-27245555
+Muni Maya Ram Jain Hospital,Model Town,North Delhi,28.7008,77.1946,https://mmrjh.in,011-27426084
+Metro Hospital,Shastri Park,North East Delhi,28.6841,77.2448,https://metrohospitals.com,011-42424242
+Holy Angels Hospital,Vasant Vihar,South Delhi,28.5733,77.1565,https://holyangelshospital.com,011-26141003
+Kailash Hospital,Greater Noida,South West Delhi,28.4965,77.5367,https://kailashhealthcare.com,0120-2322051
+Artemis Hospital,Gurgaon,South West Delhi,28.4595,77.0722,https://artemishospitals.com,0124-4511111
+Batra Hospital and Medical Research Centre,Tughlakabad Institutional Area,South Delhi,28.5122,77.2710,https://batrahospitaldelhi.org,011-29958747
+Medeor Hospital,Dwarka,South West Delhi,28.5802,77.0724,https://medeorhospitals.com,011-45055555
+Bhagwan Mahavir Hospital and Research Centre,Greater Kailash,South Delhi,28.5441,77.2419,https://bmhrc.com,011-29233390
+GNH Hospital,Gurgaon,South West Delhi,28.4635,77.0512,https://gnhhospitals.com,0124-4477847
+IBS Hospital,Lajpat Nagar,South Delhi,28.5715,77.2418,https://ibshospitals.com,011-42222222
+Nova Orthopaedic and Spine Hospital,East of Kailash,South Delhi,28.5546,77.2519,https://novaorthospine.com,011-49860000
+Sitaram Bhartia Institute of Science and Research,Qutab Institutional Area,South Delhi,28.5391,77.1831,https://sitarambhartia.org,011-42111111
+National Institute of Tuberculosis and Respiratory Diseases,Mehrauli,South Delhi,28.5036,77.1887,https://nitttrc.ac.in,011-26517841
+IBS Hospital,Lajpat Nagar,South Delhi,28.5715,77.2418,https://ibshospitals.com,011-42222222
+Max Hospital,Shalimar Bagh,North West Delhi,28.7072,77.1636,https://maxhealthcare.in,011-49783000
+Balaji Action Medical Institute,Paschim Vihar,West Delhi,28.6775,77.0825,https://actionhospital.com,011-42888888
+Delhi ENT Hospital,Pitampura,North West Delhi,28.7005,77.1316,https://delhienthospital.com,011-27344400
+Jain Hospital,Anand Vihar,East Delhi,28.6505,77.3142,https://jainhospital.in,011-22147400
+Khandelwal Hospital and Urology Centre,Shalimar Bagh,North West Delhi,28.7022,77.1689,https://khandelwalhospital.com,011-27481472
+Makkar Medical Centre,Preet Vihar,East Delhi,28.6387,77.2835,https://makkarmedicalcentre.com,011-22545118
+Tirath Ram Shah Hospital,Civil Lines,North Delhi,28.6745,77.2183,https://tirathramshah.com,011-23972426
+Holy Family Hospital,Okhla,South Delhi,28.5638,77.2664,https://holyfamilyhospital.in,011-26332800
+Mata Chanan Devi Hospital,Janakpuri,West Delhi,28.6303,77.0822,https://matachanandevihospital.com,011-45582000
+Sitaram Bhartia Institute of Science and Research,Qutab Institutional Area,South Delhi,28.5391,77.1831,https://sitarambhartia.org,011-42111111
+Pushpawati Singhania Research Institute,Sheikh Sarai,South Delhi,28.5357,77.2438,https://psrihospital.com,011-30611700
+Rajiv Gandhi Cancer Institute & Research Centre,Rohini,North West Delhi,28.7161,77.1038,https://rgcirc.org,011-47022222
+Vasant Valley School Medical Center,Vasant Kunj,South Delhi,28.5192,77.1566,https://vasantvalley.org,011-26892787
+Dr. RML Hospital,Connaught Place,Central Delhi,28.6267,77.2045,https://rmlh.nic.in,011-23365525
+Bhagat Hospital,Janakpuri,West Delhi,28.6251,77.0903,https://bhagathospital.com,011-25555109
+Delhi State Cancer Institute,Dilshad Garden,East Delhi,28.6844,77.3136,https://dsci.nic.in,011-22137766
+National Heart Institute,East of Kailash,South Delhi,28.5581,77.2584,https://nhidelhi.com,011-26414156
+G.B. Pant Hospital,Delhi Gate,Central Delhi,28.6398,77.2431,https://gbpant.delhigovt.nic.in,011-23232978
+Indira Gandhi Eye Hospital,Alaknanda,South Delhi,28.5364,77.2479,https://igeh.org,011-26328220
+Orthonova Hospital,Green Park,South Delhi,28.5558,77.2056,https://orthonova.in,011-41661233
+Bhardwaj Hospital,Noida,South Delhi,28.5679,77.3242,https://bhardwajhospital.in,0120-2431100
+Sunrise Hospital,East of Kailash,South Delhi,28.5567,77.2492,https://sunrisehospital.co.in,011-41753377
+Vardaan Hospital,Malviya Nagar,South Delhi,28.5369,77.2222,https://vardaanhospital.in,011-26689911
+Kalra Hospital,Kirti Nagar,West Delhi,28.6533,77.1482,https://kalrahospital.in,011-25459996
+Bensups Hospital,Dwarka,South West Delhi,28.5911,77.0546,https://bensupshospital.com,011-45582000
+Bharat Family Clinic,Dwarka,South West Delhi,28.5845,77.0471,https://bharatfamilyclinic.com,011-42808080
+Cygnus MLS Hospital,Paschim Vihar,West Delhi,28.6789,77.0877,https://cygnushospitals.com,011-49814981
+S.B. Health Care,Mukherjee Nagar,North Delhi,28.7051,77.2125,https://sbhealthcare.in,011-27606211
+NKS Super Speciality Hospital,Gulmohar Park,South Delhi,28.5525,77.2058,https://nkshospitals.com,011-26865050
+RG Stone Urology & Laparoscopy Hospital,East of Kailash,South Delhi,28.5561,77.2511,https://rgstone.com,011-49860000
+Sunder Lal Jain Hospital,Ashok Vihar,North Delhi,28.6963,77.179,https://sljainhospital.com,011-27245555
+Muni Maya Ram Jain Hospital,Model Town,North Delhi,28.7008,77.1946,https://mmrjh.in,011-27426084
+Metro Hospital,Shastri Park,North East Delhi,28.6841,77.2448,https://metrohospitals.com,011-42424242
+Jaypee Hospital,Noida,South West Delhi,28.5445,77.3323,https://jaypeehealthcare.com,0120-2338200
+Max Super Speciality Hospital,Vaishali,Ghaziabad,28.6518,77.3439,https://maxhealthcare.in,0120-4188000
+Shri Balaji Action Medical Institute,Paschim Vihar,West Delhi,28.6772,77.0868,https://actionhospital.com,011-42888888
+Akash Healthcare,Janakpuri,West Delhi,28.6296,77.0853,https://akashhealthcare.com,011-45582000
+Delhi Cygnus Hospital,Palam Vihar,South West Delhi,28.5571,77.0982,https://delhicygnus.com,011-47334444
+Indian Red Cross Society Hospital,Gurgaon,South West Delhi,28.4593,77.0721,https://indianredcross.org,0124-4383500
+Paras Hospitals,Gurgaon,South West Delhi,28.4484,77.0677,https://parashospitals.com,0124-4585555
+Saket City Hospital,Saket,South Delhi,28.5276,77.2127,https://saketcityhospital.com,011-42776600
+Tirath Ram Shah Hospital,Civil Lines,North Delhi,28.6745,77.2183,https://tirathramshah.com,011-23972426
+Bhagwan Mahavir Hospital,Greater Kailash,South Delhi,28.5441,77.2419,https://bmhrc.com,011-29233390
+RG Stone Urology & Laparoscopy Hospital,Pitampura,North West Delhi,28.7001,77.1336,https://rgstone.com,011-49860000
+Dr. BL Kapur Memorial Hospital,Pusa Road,Central Delhi,28.6446,77.1865,https://blkhospital.com,011-30403040
+Adiva Hospital,Green Park,South Delhi,28.5566,77.2061,https://adivahospital.com,011-41661233
+Moolchand Medcity,Lajpat Nagar,South Delhi,28.5683,77.2400,https://moolchandhealthcare.com,011-42000000
+Bhagat Hospital,Janakpuri,West Delhi,28.6251,77.0903,https://bhagathospital.com,011-25555109
+Kalra Hospital,Kirti Nagar,West Delhi,28.6533,77.1482,https://kalrahospital.in,011-25459996
+Holy Family Hospital,Okhla,South Delhi,28.5638,77.2664,https://holyfamilyhospital.in,011-26332800
+Sitaram Bhartia Institute of Science and Research,Qutab Institutional Area,South Delhi,28.5391,77.1831,https://sitarambhartia.org,011-42111111
+Pushpawati Singhania Research Institute,Sheikh Sarai,South Delhi,28.5357,77.2438,https://psrihospital.com,011-30611700
+Fortis Escorts Heart Institute,Okhla,South Delhi,28.5613,77.2754,https://fortisescorts.in,011-47135000
+Hindu Rao Hospital,Malka Ganj,North Delhi,28.6677,77.2076,https://hindurao.com,011-23973901
+Irene Hospital,Kalkaji,South Delhi,28.5384,77.2548,https://irenehealth.com,011-46520000
+Artemis Hospitals,Gurgaon,South West Delhi,28.4596,77.0721,https://artemishospitals.com,0124-4511111
+Max Hospital,Pitampura,North West Delhi,28.6998,77.1436,https://maxhealthcare.in,011-47300000
+Metro Hospital and Heart Institute,Noida,South West Delhi,28.5672,77.3270,https://metrohospitals.com,0120-2444444
+Vasant Vihar Medical Center,Vasant Vihar,South Delhi,28.5654,77.1586,https://vvmedicalcenter.com,011-26148888
+IBS Hospital,Lajpat Nagar,South Delhi,28.5715,77.2418,https://ibshospitals.com,011-42222222
+National Heart Institute,East of Kailash,South Delhi,28.5581,77.2584,https://nhidelhi.com,011-26414156
+Akash Hospital,Uttam Nagar,West Delhi,28.6209,77.0713,https://akashhospital.com,011-25373070

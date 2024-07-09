@@ -1,0 +1,74 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="content">
+  <div id="starz-container">
+    <h1>Welcome to Dr.HealthPro!</h1>
+    <p>Your health assistant for diagnosing symptoms and suggesting precautions.</p>
+    <button class="btn"><a href="{{ url_for('diagnosis') }}">Diagnose</a></button>
+    <h3 class="quote">"True health isn't just about physical fitness; it's the harmony of mind, body, and soul, where
+      resilience thrives and life's fullest potential unfolds."</h3>
+    <br>
+    <div class="cool-office-div">
+      <div class="office-image">
+        <img src="{{ url_for('static', filename='pictures/dgn.png') }}" alt="Office Image">
+      </div>
+      <div class="office-text">
+        <h2>Discover Dr.HealthPro: Your Personal Health Detective</h2>
+        <p>Unlock the future of healthcare with AI HealthPro, a cutting-edge AI designed to diagnose diseases <br> with
+          unparalleled accuracy. Simply enter your symptoms, and let our intelligent system provide you <br> with swift,
+          reliable diagnoses. Experience personalized health insights and take control of your well-being, <br> all from the
+          comfort of your home. With AI HealthPro, you're never alone on your health <br> journey—let our technology empower
+          you today! </p>
+      </div>
+    </div>
+    <br>
+    <br>
+    <div class="cool-office-div">
+      <div class="office-text">
+          <h2>Your Disease Research Companion</h2>
+          <p>Dive deeper into your diagnosis with Dr.HealthPro, your ultimate tool for comprehensive disease <br> research. Once you've received a diagnosis, Dr.HealthPro provides detailed information about <br> your condition, from symptoms and treatments to the latest research and advancements. Empower <br> yourself with knowledge and take an active role in your health journey. With Dr.HealthPro, you <br> have a world of medical insights at your fingertips, guiding you towards better understanding and care.</p>
+      </div>
+      <div class="office-image">
+          <img src={{ url_for('static', filename='pictures/rech.png') }} alt="Office Image">
+      </div>
+  </div>
+  <br>
+  <br>
+  <div class="cool-office-div">
+    <div class="office-image">
+      <img src="{{ url_for('static', filename='pictures/dtr.png') }}" alt="Office Image">
+    </div>
+    <div class="office-text">
+      <h2>Introducing Dr. HealthPro: Your Healthcare Navigator</h2>
+      <p>Say hello to Dr. HealthPro, your trusted AI assistant for finding the best healthcare options and <br> scheduling appointments with ease. Whether you're seeking top-rated hospitals or need to book a <br> visit with a specialist, Dr. HealthPro has you covered. Effortlessly explore nearby medical facilities, <br> compare services, and secure appointments—all in one place. Let Dr. HealthPro simplify your <br> healthcare journey, providing you with the best options and ensuring you get the care <br> you need, exactly when you need it.</p>
+    </div>
+  </div>
+  <br>
+  <br>
+  <div class="cool-office-div">
+    <div class="office-text">
+        <h2>Introducing HealthTrack AI: Your Personal Wellness Coach</h2>
+        <p>Stay on top of your health with HealthTrack AI, your dedicated wellness coach powered by the latest <br> in artificial intelligence. Simply provide some basic information from your smartwatch, fitness band, <br> or smartphone, and let HealthTrack AI analyze your data. Receive personalized health suggestions <br> and a fitness percentage, giving you a clear picture of your well-being. HealthTrack AI helps you <br> understand your health better and guides you towards achieving your wellness goals. Empower <br> yourself with real-time health tracking and expert advice, all in one intuitive platform. Let HealthTrack AI <br> be your partner on the path to a healthier, happier you.</p>
+    </div>
+    <div class="office-image">
+        <img src={{ url_for('static', filename='pictures/htr.png') }} alt="Office Image">
+    </div>
+</div>
+    <div class="robo">
+      <div class="box-of-star1">
+        <div data-js="astro" class="astronaut">
+          <div class="head"></div>
+          <div class="arm arm-left"></div>
+          <div class="arm arm-right"></div>
+          <div class="body">
+            <div class="panel"></div>
+          </div>
+          <div class="leg leg-left"></div>
+          <div class="leg leg-right"></div>
+          <div class="schoolbag"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  {% endblock %}

@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Diagnosis</h1>
+<form method="post">
+    <label for="symptoms">Enter your symptoms:</label>
+    <input type="text" id="symptoms" name="symptoms" required>
+    <button type="submit">Submit</button>
+</form>
+
+{% if predictions %}
+    <h2>Predicted Diseases and Precautions</h2>
+    <ul>
+        {% for disease, precaution in predictions %}
+            <li class="dzs"><strong>Disease:</strong> {{ disease }}, <strong>Precaution:</strong> {{ precaution }}</li>
+        {% endfor %}
+    </ul>
+    <br>
+    <br>
+    <br>
+    <br>
+{% endif %}
+{% endblock %}
